@@ -1,0 +1,81 @@
+ .outer{
+    border: 2px solid green;
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 400px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+}
+
+.alphabet{
+    border:2px solid black ;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 85px;
+    background-color: grey;
+    border-radius: 10px;
+}
+
+#a:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+
+#b:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+
+#c:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+
+#d:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+
+#e:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+
+#f:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+
+#g:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+
+#h:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+
+#i:hover{
+    box-shadow: 10px 10px 40px rgb(120, 50, 50);
+   
+    transition: 0.5s ease-in ;
+}
+body{
+    background-color: black;
+}
